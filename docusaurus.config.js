@@ -4,7 +4,7 @@ const config = {
   title: 'Physical AI and Humanoid Robotics',
   tagline: 'Building the Future with Intelligent Machines',
   url: 'https://gemini.google.com', // Your website URL
-  baseUrl: '/writing_doco/', // Base URL for your project
+  baseUrl: '/', // Base URL for your project
   organizationName: 'gemini', // GitHub organization/user name
   projectName: 'writing_doco', // GitHub repo name
   deploymentBranch: 'gh-pages', // The branch for GitHub Pages
