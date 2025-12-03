@@ -1,0 +1,27 @@
+{
+  "id": "chapter-4",
+  "title": "Motion Planning and Navigation",
+  "description": "This chapter explores how Physical AI systems plan their movements and navigate through complex environments. We will cover algorithms for pathfinding, obstacle avoidance, and simultaneous localization and mapping (SLAM).",
+  "source": "@site/docs/chapter-4.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-4",
+  "permalink": "/writing_doco/docs/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-4",
+    "title": "Motion Planning and Navigation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Actuation and Control",
+    "permalink": "/writing_doco/docs/chapter-3"
+  },
+  "next": {
+    "title": "Humanoid Robotics",
+    "permalink": "/writing_doco/docs/chapter-5"
+  }
+}

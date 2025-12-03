@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/writing_doco/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/writing_doco/docs",
+          "mainDocId": "chapter-1",
+          "docs": [
+            {
+              "id": "chapter-1",
+              "path": "/writing_doco/docs/chapter-1",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-10",
+              "path": "/writing_doco/docs/chapter-10",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-2",
+              "path": "/writing_doco/docs/chapter-2",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-3",
+              "path": "/writing_doco/docs/chapter-3",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-4",
+              "path": "/writing_doco/docs/chapter-4",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-5",
+              "path": "/writing_doco/docs/chapter-5",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-6",
+              "path": "/writing_doco/docs/chapter-6",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-7",
+              "path": "/writing_doco/docs/chapter-7",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-8",
+              "path": "/writing_doco/docs/chapter-8",
+              "sidebar": "docs"
+            },
+            {
+              "id": "chapter-9",
+              "path": "/writing_doco/docs/chapter-9",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/writing_doco/docs/chapter-1",
+                "label": "chapter-1"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chapter-8",
+  "title": "Applications of Physical AI",
+  "description": "This chapter showcases the wide range of applications for Physical AI. We will explore how these technologies are being used in fields such as manufacturing, healthcare, logistics, and exploration.",
+  "source": "@site/docs/chapter-8.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-8",
+  "permalink": "/writing_doco/docs/chapter-8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-8",
+    "title": "Applications of Physical AI"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "AI Ethics and Safety",
+    "permalink": "/writing_doco/docs/chapter-7"
+  },
+  "next": {
+    "title": "The Future of Physical AI",
+    "permalink": "/writing_doco/docs/chapter-9"
+  }
+}

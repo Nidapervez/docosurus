@@ -1,0 +1,23 @@
+{
+  "id": "chapter-1",
+  "title": "Introduction to Physical AI",
+  "description": "This chapter introduces the fundamental concepts of Physical AI, exploring the intersection of artificial intelligence and the physical world. We will delve into the history of AI, from its early theoretical beginnings to the development of embodied agents that can perceive, reason, and act in real-world environments.",
+  "source": "@site/docs/chapter-1.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-1",
+  "permalink": "/writing_doco/docs/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-1",
+    "title": "Introduction to Physical AI"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Sensing and Perception",
+    "permalink": "/writing_doco/docs/chapter-2"
+  }
+}

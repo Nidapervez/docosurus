@@ -1,0 +1,27 @@
+{
+  "id": "chapter-5",
+  "title": "Humanoid Robotics",
+  "description": "This chapter provides a comprehensive overview of humanoid robotics. We will explore the history of humanoid robots, their design and construction, and the challenges of creating machines that mimic human form and function.",
+  "source": "@site/docs/chapter-5.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-5",
+  "permalink": "/writing_doco/docs/chapter-5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-5",
+    "title": "Humanoid Robotics"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Motion Planning and Navigation",
+    "permalink": "/writing_doco/docs/chapter-4"
+  },
+  "next": {
+    "title": "Robot Learning",
+    "permalink": "/writing_doco/docs/chapter-6"
+  }
+}

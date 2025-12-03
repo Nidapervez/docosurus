@@ -1,0 +1,23 @@
+{
+  "id": "chapter-10",
+  "title": "Conclusion",
+  "description": "This chapter summarizes the key themes of the book and offers some concluding thoughts on the future of Physical AI and humanoid robotics.",
+  "source": "@site/docs/chapter-10.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-10",
+  "permalink": "/writing_doco/docs/chapter-10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-10",
+    "title": "Conclusion"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "The Future of Physical AI",
+    "permalink": "/writing_doco/docs/chapter-9"
+  }
+}

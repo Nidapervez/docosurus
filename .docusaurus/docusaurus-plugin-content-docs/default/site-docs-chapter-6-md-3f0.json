@@ -1,0 +1,27 @@
+{
+  "id": "chapter-6",
+  "title": "Robot Learning",
+  "description": "This chapter explores how robots can learn from experience. We will delve into reinforcement learning, imitation learning, and other machine learning techniques that enable robots to acquire new skills and adapt to new situations.",
+  "source": "@site/docs/chapter-6.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-6",
+  "permalink": "/writing_doco/docs/chapter-6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-6",
+    "title": "Robot Learning"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Humanoid Robotics",
+    "permalink": "/writing_doco/docs/chapter-5"
+  },
+  "next": {
+    "title": "AI Ethics and Safety",
+    "permalink": "/writing_doco/docs/chapter-7"
+  }
+}

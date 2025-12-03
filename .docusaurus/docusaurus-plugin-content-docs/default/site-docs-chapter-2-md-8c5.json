@@ -1,0 +1,27 @@
+{
+  "id": "chapter-2",
+  "title": "Sensing and Perception",
+  "description": "This chapter focuses on the sensory systems of Physical AI. We will explore various sensor modalities, including vision, touch, and hearing, and discuss the algorithms and techniques used to process sensory data into meaningful representations of the environment.",
+  "source": "@site/docs/chapter-2.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-2",
+  "permalink": "/writing_doco/docs/chapter-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-2",
+    "title": "Sensing and Perception"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/writing_doco/docs/chapter-1"
+  },
+  "next": {
+    "title": "Actuation and Control",
+    "permalink": "/writing_doco/docs/chapter-3"
+  }
+}

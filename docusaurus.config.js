@@ -1,1 +1,97 @@
-// @ts-check\n// prettier-ignore\nconst config = {\n  title: 'Physical AI and Humanoid Robotics',\n  tagline: 'Building the Future with Intelligent Machines',\n  url: 'https://Nidapervez.github.io', // Your website URL\n  baseUrl: '/physical-ai-humanoid-robotics-book/', // Base URL for your project\n  organizationName: 'Nidapervez', // GitHub organization/user name\n  projectName: 'physical-ai-humanoid-robotics-book', // GitHub repo name\n  deploymentBranch: 'gh-pages', // The branch for GitHub Pages\n\n  presets: [\n    [\n      '@docusaurus/preset-classic',\n      {\n        docs: {\n          sidebarPath: require.resolve('./sidebars.js'),\n          // Please change this to your repo.\n          // Remove this to remove the "edit this page" links.\n          editUrl:\n            'https://github.com/Nidapervez/physical-ai-humanoid-robotics-book/tree/main/',\n        },\n        blog: {\n          showReadingTime: true,\n          // Please change this to your repo.\n          // Remove this to remove the "edit this page" links.\n          editUrl:\n            'https://github.com/Nidapervez/physical-ai-humanoid-robotics-book/tree/main/',\n        },\n        theme: {\n          customCss: require.resolve('./src/css/custom.css'),\n        },\n      },\n    ],\n  ],\n\n  themeConfig:\n    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */\n    ({\n      navbar: {\n        title: 'Physical AI and Humanoid Robotics',\n        logo: {\n          alt: 'My Project Logo',\n          src: 'img/logo.svg',\n        },\n        items: [\n          {\n            type: 'doc',\n            docId: 'intro',\n            position: 'left',\n            label: 'Book',\n          },\n          {to: '/blog', label: 'Blog', position: 'left'},\n          {\n            href: 'https://github.com/Nidapervez/physical-ai-humanoid-robotics-book',\n            label: 'GitHub',\n            position: 'right',\n          },\n        ],\n      },\n      footer: {\n        style: 'dark',\n        links: [\n          {\n            title: 'Docs',\n            items: [\n              {\n                label: 'Book',\n                to: '/docs/intro',\n              },\n            ],\n          },\n          {\n            title: 'Community',\n            items: [\n              {\n                label: 'Stack Overflow',\n                href: 'https://stackoverflow.com/questions/tagged/docusaurus',\n              },\n              {\n                label: 'Discord',\n                href: 'https://discordapp.com/invite/docusaurus',\n              },\n              {\n                label: 'Twitter',\n                href: 'https://twitter.com/docusaurus',\n              },\n            ],\n          },\n          {\n            title: 'More',\n            items: [\n              {\n                label: 'Blog',\n                to: '/blog',\n              },\n              {\n                label: 'GitHub',\n                href: 'https://github.com/Nidapervez/physical-ai-humanoid-robotics-book',\n              },\n            ],\n          },\n        ],\n        copyright: `Copyright © 2025 Nidapervez. Built with Docusaurus.`,\n      },\n      prism: {\n        theme: require('prism-react-renderer/themes/github'),\n        darkTheme: require('prism-react-renderer/themes/dracula'),\n      },\n    }),\n};\n\nmodule.exports = config;
+// @ts-check
+// prettier-ignore
+const config = {
+  title: 'Physical AI and Humanoid Robotics',
+  tagline: 'Building the Future with Intelligent Machines',
+  url: 'https://gemini.google.com', // Your website URL
+  baseUrl: '/writing_doco/', // Base URL for your project
+  organizationName: 'gemini', // GitHub organization/user name
+  projectName: 'writing_doco', // GitHub repo name
+  deploymentBranch: 'gh-pages', // The branch for GitHub Pages
+
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/gemini/writing_doco/tree/main/',
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      },
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      navbar: {
+        title: 'Physical AI and Humanoid Robotics',
+        logo: {
+          alt: 'My Project Logo',
+          src: 'img/logo.svg',
+        },
+        items: [
+          {
+            type: 'doc',
+            docId: 'chapter-1',
+            position: 'left',
+            label: 'Book',
+          },
+          {
+            href: 'https://github.com/gemini/writing_doco',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
+      },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Book',
+                to: '/docs/chapter-1',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discordapp.com/invite/docusaurus',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/docusaurus',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/gemini/writing_doco',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      },
+    }),
+};
+
+module.exports = config;

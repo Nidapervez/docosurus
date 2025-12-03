@@ -1,0 +1,27 @@
+{
+  "id": "chapter-9",
+  "title": "The Future of Physical AI",
+  "description": "This chapter looks to the future of Physical AI. We will discuss the latest research trends and speculate on the long-term impact of these technologies on society.",
+  "source": "@site/docs/chapter-9.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-9",
+  "permalink": "/writing_doco/docs/chapter-9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-9",
+    "title": "The Future of Physical AI"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Applications of Physical AI",
+    "permalink": "/writing_doco/docs/chapter-8"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/writing_doco/docs/chapter-10"
+  }
+}

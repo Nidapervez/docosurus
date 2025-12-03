@@ -1,0 +1,27 @@
+{
+  "id": "chapter-7",
+  "title": "AI Ethics and Safety",
+  "description": "This chapter addresses the ethical and safety considerations of Physical AI. We will discuss the potential risks and benefits of advanced AI and robotics, and explore frameworks for ensuring that these technologies are developed and used responsibly.",
+  "source": "@site/docs/chapter-7.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-7",
+  "permalink": "/writing_doco/docs/chapter-7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gemini/writing_doco/tree/main/docs/chapter-7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-7",
+    "title": "AI Ethics and Safety"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Robot Learning",
+    "permalink": "/writing_doco/docs/chapter-6"
+  },
+  "next": {
+    "title": "Applications of Physical AI",
+    "permalink": "/writing_doco/docs/chapter-8"
+  }
+}
